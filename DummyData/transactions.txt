@@ -1,52 +1,52 @@
 ***955 Cashkonto - Max Muster	03.11.2021	Max Muster	
-TA.-Nr.	2540578484
+TA.-Nr.	##12
 400,00 EUR
- 	03.11.2021	~~~BIC~~~/~~~IBAN~~~	Kauf IE00B4L5Y983 191118921	 
+ 	03.11.2021	~~~BIC~~~/~~~IBAN~~~	Kauf IE00B4L5Y983 10##
 ***955 Cashkonto - Max Muster	01.11.2021		
-TA.-Nr.	2536867925
+TA.-Nr.	##11
 -400,00 EUR
- 	03.11.2021		Ausführung ORDER Kauf IE00B4L5Y983 191118921	 
+ 	03.11.2021		Ausführung ORDER Kauf IE00B4L5Y983 9##
 ***955 Cashkonto - Max Muster	05.10.2021	Max Muster	
-TA.-Nr.	2504259294
+TA.-Nr.	##10
 200,00 EUR
- 	05.10.2021	~~~BIC~~~/~~~IBAN~~~	Kauf LU2023678282 190630778	 
+ 	05.10.2021	~~~BIC~~~/~~~IBAN~~~	Kauf LU2023678282 8##
 ***955 Cashkonto - Max Muster	05.10.2021	Max Muster	
-TA.-Nr.	2504259304
+TA.-Nr.	###9
 200,00 EUR
- 	05.10.2021	~~~BIC~~~/~~~IBAN~~~	Kauf IE00B4L5Y983 190630770	 
+ 	05.10.2021	~~~BIC~~~/~~~IBAN~~~	Kauf IE00B4L5Y983 7##
 ***955 Cashkonto - Max Muster	04.10.2021		
-TA.-Nr.	2502316520
+TA.-Nr.	###8
 6,04 EUR
  	01.10.2021		Dividendenzahlung US1912161007	 
 ***955 Cashkonto - Max Muster	02.10.2021		
-TA.-Nr.	2499869856
+TA.-Nr.	###7
 -2,16 EUR
  	30.09.2021		Zinsabschluss 01.07.2021 -30.09.2021	 
 ***955 Cashkonto - Max Muster	01.10.2021		
-TA.-Nr.	2498223649
+TA.-Nr.	###6
 -200,00 EUR
- 	05.10.2021		Ausführung ORDER Kauf LU2023678282 190630778	 
+ 	05.10.2021		Ausführung ORDER Kauf LU2023678282 6##
 ***955 Cashkonto - Max Muster	01.10.2021		
-TA.-Nr.	2498939517
+TA.-Nr.	###5
 -200,00 EUR
- 	05.10.2021		Ausführung ORDER Kauf IE00B4L5Y983 190630770	 
+ 	05.10.2021		Ausführung ORDER Kauf IE00B4L5Y983 5##
 ***955 Cashkonto - Max Muster	17.09.2021		
-TA.-Nr.	2480565019
+TA.-Nr.	###4
 -1.621,75 EUR
- 	21.09.2021		Ausführung ORDER Kauf US1858991011 190419539	 
+ 	21.09.2021		Ausführung ORDER Kauf US1858991011 4##
 ***955 Cashkonto - Max Muster	14.09.2021		
-TA.-Nr.	2475458045
+TA.-Nr.	###3
 -1.994,25 EUR
- 	16.09.2021		Ausführung ORDER Kauf AT000000STR1 190369582	 
+ 	16.09.2021		Ausführung ORDER Kauf AT000000STR1 3##
 ***955 Cashkonto - Max Muster	13.09.2021		
-TA.-Nr.	2474161240
+TA.-Nr.	###2
 4.219,81 EUR
- 	15.09.2021		Ausführung ORDER Verkauf GB00BZ09BD16 190331635	 
+ 	15.09.2021		Ausführung ORDER Verkauf GB00BZ09BD16 2##
 ***955 Cashkonto - Max Muster	13.09.2021		
-TA.-Nr.	2474163844
+TA.-Nr.	###1
 1.662,00 EUR
- 	15.09.2021		Ausführung ORDER Verkauf US00165C1045 190331690	 
+ 	15.09.2021		Ausführung ORDER Verkauf US00165C1045 1##
 ***955 Cashkonto - Max Muster	13.09.2021		
-TA.-Nr.	2474170300
+TA.-Nr.	###0
 -2.286,75 EUR
- 	15.09.2021		Ausführung ORDER Kauf US00287Y1091 190331740
+ 	15.09.2021		Ausführung ORDER Kauf US00287Y1091 0##
