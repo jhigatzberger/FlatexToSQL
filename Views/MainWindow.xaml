@@ -1,0 +1,16 @@
+﻿<Window x:Class="FlatexToSQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="200">
+    <Grid>
+        <Button Content="Load Orders" HorizontalAlignment="Center" VerticalAlignment="Top" Click="LoadOrders" Margin="0,35,0,0"/>
+        <Button Content="Load Transactions" HorizontalAlignment="Center" VerticalAlignment="Top" Click="LoadTransactions" Margin="0,10,0,0"/>
+        <Button Content="Show Graph" HorizontalAlignment="Center" VerticalAlignment="Top" Click="ShowGraph" Margin="0,122,0,0"/>
+
+        <TextBox x:Name="query_input" HorizontalAlignment="Center" Text="Ticker" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="20" Margin="0,172,0,0"/>
+        <Button Content="Query" HorizontalAlignment="Center" VerticalAlignment="Top" Height="20" Click="QueryTicker" Margin="0,197,0,0"/>
+    </Grid>
+</Window>

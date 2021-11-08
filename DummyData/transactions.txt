@@ -1,0 +1,52 @@
+***955 Cashkonto - Max Muster	03.11.2021	Max Muster	
+TA.-Nr.	2540578484
+400,00 EUR
+ 	03.11.2021	~~~BIC~~~/~~~IBAN~~~	Kauf IE00B4L5Y983 191118921	 
+***955 Cashkonto - Max Muster	01.11.2021		
+TA.-Nr.	2536867925
+-400,00 EUR
+ 	03.11.2021		Ausführung ORDER Kauf IE00B4L5Y983 191118921	 
+***955 Cashkonto - Max Muster	05.10.2021	Max Muster	
+TA.-Nr.	2504259294
+200,00 EUR
+ 	05.10.2021	~~~BIC~~~/~~~IBAN~~~	Kauf LU2023678282 190630778	 
+***955 Cashkonto - Max Muster	05.10.2021	Max Muster	
+TA.-Nr.	2504259304
+200,00 EUR
+ 	05.10.2021	~~~BIC~~~/~~~IBAN~~~	Kauf IE00B4L5Y983 190630770	 
+***955 Cashkonto - Max Muster	04.10.2021		
+TA.-Nr.	2502316520
+6,04 EUR
+ 	01.10.2021		Dividendenzahlung US1912161007	 
+***955 Cashkonto - Max Muster	02.10.2021		
+TA.-Nr.	2499869856
+-2,16 EUR
+ 	30.09.2021		Zinsabschluss 01.07.2021 -30.09.2021	 
+***955 Cashkonto - Max Muster	01.10.2021		
+TA.-Nr.	2498223649
+-200,00 EUR
+ 	05.10.2021		Ausführung ORDER Kauf LU2023678282 190630778	 
+***955 Cashkonto - Max Muster	01.10.2021		
+TA.-Nr.	2498939517
+-200,00 EUR
+ 	05.10.2021		Ausführung ORDER Kauf IE00B4L5Y983 190630770	 
+***955 Cashkonto - Max Muster	17.09.2021		
+TA.-Nr.	2480565019
+-1.621,75 EUR
+ 	21.09.2021		Ausführung ORDER Kauf US1858991011 190419539	 
+***955 Cashkonto - Max Muster	14.09.2021		
+TA.-Nr.	2475458045
+-1.994,25 EUR
+ 	16.09.2021		Ausführung ORDER Kauf AT000000STR1 190369582	 
+***955 Cashkonto - Max Muster	13.09.2021		
+TA.-Nr.	2474161240
+4.219,81 EUR
+ 	15.09.2021		Ausführung ORDER Verkauf GB00BZ09BD16 190331635	 
+***955 Cashkonto - Max Muster	13.09.2021		
+TA.-Nr.	2474163844
+1.662,00 EUR
+ 	15.09.2021		Ausführung ORDER Verkauf US00165C1045 190331690	 
+***955 Cashkonto - Max Muster	13.09.2021		
+TA.-Nr.	2474170300
+-2.286,75 EUR
+ 	15.09.2021		Ausführung ORDER Kauf US00287Y1091 190331740
