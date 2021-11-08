@@ -107,3 +107,4 @@ D:\Projects\FlatexToSQL\FlatexToSQL\FlatexToSQL\obj\Debug\net5.0-windows\Generat
 D:\Projects\FlatexToSQL\FlatexToSQL\FlatexToSQL\obj\Debug\net5.0-windows\FlatexToSQL_MarkupCompile.lref
 D:\Projects\FlatexToSQL\FlatexToSQL\FlatexToSQL\obj\Debug\net5.0-windows\Views\GraphView.baml
 D:\Projects\FlatexToSQL\FlatexToSQL\FlatexToSQL\obj\Debug\net5.0-windows\Views\OrderView.baml
+D:\Projects\FlatexToSQL\FlatexToSQL\FlatexToSQL\obj\Debug\net5.0-windows\FlatexToSQL.csproj.AssemblyReference.cache
