@@ -14,9 +14,13 @@ A little tool created for own use using:
 
 The database is local for simplicity sake.
 
-Querying
+Querying:
+
+
 ![Query](https://github.com/jhigatzberger/FlatexToSQL/blob/main/Screenshots/Query.PNG?raw=true)
 
 
-Plotting with OxyPlot
+Plotting with OxyPlot:
+
+
 ![Graph](https://github.com/jhigatzberger/FlatexToSQL/blob/main/Screenshots/Graph.PNG?raw=true)
